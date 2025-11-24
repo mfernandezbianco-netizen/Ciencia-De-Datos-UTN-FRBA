@@ -1,2 +1,2 @@
-# Ciencia-De-Datos-UTN-FRBA
+# data_science_utn_clusterai2025_FernandezBianco
 Repositorio para trabajo practico grupal
